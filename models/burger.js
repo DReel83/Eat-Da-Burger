@@ -19,4 +19,4 @@ var burger = {
 	}
 };
 
-module.exports = burgers;
+module.exports = burger;
